@@ -1,3 +1,8 @@
-theme: minima
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
 title: "DEGREE-3-AUDIO"
+
 description: Sonic Exploration Devices
